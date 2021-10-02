@@ -1,0 +1,65 @@
+h1{
+    font-size: 40px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue ;
+    background-color: yellow ;
+    text-align: center;
+    border-style: solid;
+    border-color: blue ;
+}
+.h1{
+    
+    font-size: 40px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue ;
+    background-color: yellow ;
+    text-align: center;
+    border-style: solid;
+    border-color: blue ;
+
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color: blue ;
+  
+}
+body{
+    background-color:  white  ;
+}
+.sining{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: blue ;
+    font-size: 20px;    
+  
+
+}
+.kit{
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: capitalize;
+    color: blue ;
+    font-size: 20px ;
+
+  
+    
+}
+footer{
+    text-transform: capitalize;
+    text-align: center;
+    color: yellow  ;
+    background-color: darkblue;
+    margin-top: 50px ;
+    font-size: 25px  ;
+    border-color: yellow ;
+    border-style: double;
+}
+.image{
+    width: 350px  ;
+    height:250px  ;
+    margin-left: 400px  ;
+    border: blue;
+    border-style: double;
+}
+     
